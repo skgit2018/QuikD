@@ -1,2 +1,0 @@
-# QuikD
-Repository for QuickDrv
